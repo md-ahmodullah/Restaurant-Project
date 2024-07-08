@@ -9,13 +9,13 @@
 .hero{
     height: 620px;
     background-image: url(/assets/hero-bg.png);
-    background-color: linear-gradient(0.00deg, rgb(16, 16, 16) -19.5%,rgba(16, 16, 16, 0) 100%);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: rgba(0, 0, 0, 0.491);
     background-blend-mode: overlay;
 }
 
